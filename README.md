@@ -1,5 +1,5 @@
 # DATA-SCIENCE-PROJECT
-#Introduction
+# Introduction
 
 SpaceX aims to reduce launch costs by reusing the first stage of the Falcon 9 rocket. However, reusability depends on whether the booster lands successfully.
 The goal of this project is to analyze historical SpaceX launch data to answer the following questions:
@@ -10,7 +10,7 @@ How do payload mass, orbit type, and launch site influence outcomes?
 
 Can machine learning models predict landing success accurately?
 
-#Methodology
+# Methodology
 
 The project followed a structured data science workflow:
 
